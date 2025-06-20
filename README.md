@@ -1,3 +1,9 @@
+# Personal Information
+
+- **Name:** Anupam
+- **Email:** anupam@example.com
+- **GitHub:** [github.com/anupam](https://github.com/anupam)
+
 # React Sum App
 
 This is a simple React application that allows users to calculate the sum of two numbers.
