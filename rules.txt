@@ -1,0 +1,2 @@
+# Variable definations 
+- variable declarations should be in capital letters
